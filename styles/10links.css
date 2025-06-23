@@ -1,0 +1,11 @@
+a:link {
+  color: blue; /* Cor dos links não visitados */
+  text-decoration: none; /* Remove o sublinhado */
+}
+a:visited {
+  color: purple; /* Cor dos links visitados */
+}
+a:hover {
+  color: red; /* Cor ao passar o mouse */
+  text-decoration: underline; /* Sublinhado ao passar o mouse */
+}

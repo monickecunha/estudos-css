@@ -1,0 +1,26 @@
+body {
+  background-color: #e7e9eb;
+}
+
+#myDIV {
+  height: 150px;
+  background-color: #ffffff;
+}
+
+#myDIV p {
+  background-color: blue;
+  padding: 10px;
+  margin: 20px;
+  /* definição do tipo de posicionamento */
+  /*display: block;*/
+  display: inline;
+  /*width: 300px;
+  display: inline-block;*/
+  /*display: none;*/
+}
+
+#myDIV span {
+  background-color: red;
+  padding: 10px;
+  color: white;
+}

@@ -1,0 +1,14 @@
+.article-card {
+  background-color: #f4f4f4;
+  /* Cor de fundo */
+  border: 1px solid #ddd;
+  /* Borda simples */
+  padding: 20px;
+  /* Padding generoso */
+  margin-top: 20px;
+  /* Margem superior para separação */
+  width: 80%;
+  /* Largura relativa */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  /* Sombra para profundidade */
+}

@@ -1,0 +1,15 @@
+.solid-border {
+  border: 4px solid #0000ff; /* Borda sólida azul */
+  padding: 10px;
+  margin: 20px;
+}
+.dotted-border {
+  border: 3px dotted red; /* borda pontilhada vermelha */
+  padding: 10px;
+  margin: 20px;
+}
+.double-border {
+  border: 5px double green; /* borda dupla verde */
+  padding: 10px;
+  margin: 20px;
+}

@@ -1,0 +1,23 @@
+.square-bullets {
+  list-style-type: square; /* Marcadores quadrados para a lista não ordenada */
+}
+.roman-numbers {
+  list-style-type: upper-roman; /* Números romanos maiúsculos para a lista ordenada */
+}
+.img-list {
+  list-style-type: circle; /* Fallback para círculos caso a imagem não carregue */
+  /*list-style-image: url("/images/star.jpeg"); /* Imagem personalizada como marcador */
+  padding-left: 40px; /* Ajuste conforme necessário para alinhar o texto com a imagem */
+}
+.styled-list {
+  margin: 20px; /* Espaço em torno da lista */
+  padding: 0; /* Remove o preenchimento padrão para usar o personalizado nos itens */
+  list-style-type: none; /* Remove os marcadores padrão */
+}
+.styled-list li {
+  background-color: #f4f4f4; /* Cor de fundo para cada item */
+  margin-bottom: 10px; /* Espaço entre os itens da lista */
+  padding: 10px; /* Preenchimento dentro de cada item */
+  text-align: center; /* Centraliza o texto dentro do item */
+  border-radius: 5px; /* Bordas arredondadas */
+}

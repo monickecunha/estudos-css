@@ -1,0 +1,23 @@
+body {
+  margin-top: 20px; /* Define margem superior para o documento*/
+  padding: 0; /* Reseta o padding para o documento*/
+}
+/* Estilização “normal” dos links de navegação */
+a {
+  padding: 10px 20px; /* Preenchimento vertical e horizontal */
+  background-color: #0077cc; /* Cor de fundo azul */
+  color: white; /* Cor do texto branco */
+  text-decoration: none; /* Remove o sublinhado dos links */
+  margin: 5px; /* Margem entre os links */
+  border-radius: 5px; /* Bordas arredondadas */
+}
+/* Efeito hover para os links de navegação */
+a:hover {
+  background-color: #005fa3; /* Cor de fundo mais escura ao passar o mouse */
+  color: #f3d00b; /* Muda a cor do texto ao passar o mouse */
+}
+/* Efeito focus para os links de navegação */
+a:focus {
+  background-color: #a5d3f3; /* Cor de fundo mais clara  ao focar com o mouse */
+  color: #f7571d; /* Muda a cor do texto ao focar com o mouse */
+}

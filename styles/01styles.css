@@ -1,0 +1,80 @@
+body {
+  font-family: Arial, sans-serif;
+}
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  /* Espaçamento entre linhas é 1.6 vezes o tamanho da fonte */
+  /*underline red wavy;*/
+}
+h1 {
+  font-weight: bold; /* Negrito */
+}
+p.light {
+  font-weight: 300; /* Peso de fonte leve */
+}
+p.normal {
+  font-weight: normal; /* Peso de fonte normal */
+}
+p.bold {
+  font-weight: 800; /* Peso de fonte muito grosso */
+}
+strong {
+  font-weight: bolder; /* Mais grosso que o elemento pai */
+}
+/*font-style*/
+.normal {
+  font-style: normal;
+}
+.italic {
+  font-style: italic;
+}
+.oblique {
+  font-style: oblique;
+}
+/*text-align*/
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.justify {
+  text-align: justify;
+}
+/*line-height*/
+.tight {
+  line-height: 1.2; /* Menor espaçamento entre linhas */
+}
+.loose {
+  line-height: 2; /* Maior espaçamento entre linhas */
+}
+/*Text-decoration*/
+.underline {
+  text-decoration: underline;
+}
+.overline {
+  text-decoration: overline green;
+}
+.line-through {
+  text-decoration: line-through blue double;
+}
+/*text-transform*/
+.none {
+  text-transform: none;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.lowercase {
+  text-transform: lowercase;
+}
