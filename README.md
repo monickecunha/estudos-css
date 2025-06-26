@@ -69,7 +69,7 @@ Abaixo, um resumo das funcionalidades CSS exploradas em cada par de arquivos:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/monickecunha/estudos-css.git](https://github.com/monickecunha/estudos-css.git)
+    git clone https://github.com/monickecunha/estudos-css.git
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
